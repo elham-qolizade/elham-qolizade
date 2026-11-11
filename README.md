@@ -13,6 +13,7 @@
 - 🏢 Frontend developer at **PANTOhealth**
 - 📊 Building monitoring dashboards and data-driven web apps
 - ⚛️ Daily stack: React, Next.js, TypeScript, TanStack Query, Zustand & Tailwind
+- 🤖 Leveraging a range of AI tools to build, review and ship better software, faster
 - 📍 Based in **Sari, Mazandaran**
 
 ## 🛠️ Tech stack
