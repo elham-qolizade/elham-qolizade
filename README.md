@@ -12,9 +12,9 @@
 
 - 🏢 Frontend developer at **PANTOhealth**
 - 📍 Based in **Sari, Mazandaran**
-- ⚛️ I build dashboards, admin panels and business apps with **React, Next.js & TypeScript**
-- 🌐 I care about RTL / Persian UI details, Jalali calendars and accessible design
-- 🌱 Always learning: performance, testing and design systems
+- ⚛️ I build web apps and websites with React, Next.js & TypeScript
+- 🌐 I enjoy working on Persian / RTL interfaces
+- 🌱 Learning something new every day
 
 ## 🛠️ Tech stack
 
