@@ -11,10 +11,10 @@
 ## 👩‍💻 About me
 
 - 🏢 Frontend developer at **PANTOhealth**
+- 🚆 Building real-time monitoring & predictive-maintenance dashboards for railway infrastructure
+- 📈 Working on data-heavy UIs: live charts, maps, 3D views and large data tables
+- ⚛️ Daily stack: React, Next.js, TypeScript, TanStack Query, Zustand & Tailwind
 - 📍 Based in **Sari, Mazandaran**
-- ⚛️ I build web apps and websites with React, Next.js & TypeScript
-- 🌐 I enjoy working on Persian / RTL interfaces
-- 🌱 Learning something new every day
 
 ## 🛠️ Tech stack
 
