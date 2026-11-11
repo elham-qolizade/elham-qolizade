@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Building+clean+%26+fast+web+interfaces;React+%2B+Next.js+%2B+TypeScript+%2B+Tailwind;Persian+%2F+RTL+friendly+UIs)](https://github.com/elham-qolizade)
 
-![Profile views](https://komarev.com/ghpvc/?username=elham-qolizade&style=flat-square&color=6366f1&label=Profile+views)
-![Followers](https://img.shields.io/github/followers/elham-qolizade?style=flat-square&color=06b6d4&logo=github)
-
 </div>
 
 ---
@@ -23,7 +20,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,nodejs,git,github,figma&perline=12" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,threejs,nodejs,git,github,figma&perline=13" alt="skills" />
+<br/>
+<img src="https://img.shields.io/badge/GSAP-0ae448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 
 </div>
 
