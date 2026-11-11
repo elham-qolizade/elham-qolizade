@@ -8,7 +8,7 @@
 
 ---
 
-## ⚡ About me
+## About me
 
 ```ts
 const elham = {
@@ -21,7 +21,7 @@ const elham = {
 };
 ```
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
