@@ -17,7 +17,7 @@ const elham = {
   beyondWork: "Websites & web apps for other projects",
   stack:      ["React", "Next.js", "TypeScript", "TanStack Query", "Zustand", "Tailwind"],
   workflow:   "Using a range of AI tools to build, review & ship faster",
-  location:   "Sari, Mazandaran 🇮🇷",
+  location:   "Sari, Mazandaran ",
 };
 ```
 
