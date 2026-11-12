@@ -25,9 +25,15 @@ const elham = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs,nodejs,git,github,figma&theme=dark&perline=13" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs,vitest,nodejs,prisma,docker,git,github,figma&theme=dark&perline=8" alt="skills" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack_Query" /> <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge" alt="Zustand" /> <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React_Hook_Form" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" /> <img src="https://img.shields.io/badge/GSAP-0ae448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+
 <br/>
-<img src="https://img.shields.io/badge/GSAP-0ae448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
 
 </div>
 
